@@ -1,5 +1,7 @@
 # api_yamdb
-![example workflow](https://github.com/Shubarin/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
+![Django-app workflow](https://github.com/Shubarin/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
+  
+Site: http://84.252.132.152/api/v1/
 
 # Описание
 Проект **YaMDb** собирает отзывы пользователей на произведения. Произведения делятся на категории: «Книги», «Фильмы», «Музыка».
